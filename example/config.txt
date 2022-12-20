@@ -1,0 +1,2 @@
+Prefix plugins/ANCOMBC/example/
+Plugin ANCOMBC inputfile parameters.txt outputfile ancombc.csv
